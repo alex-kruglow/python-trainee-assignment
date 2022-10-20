@@ -10,5 +10,5 @@ def _convert_str_matrix_to_list_matrix(str_matrix: str) -> list[list[int]]:
     pass
 
 
-def _pass_matrix_by_spiral(matrix: list[list[int]]) -> list[int]:
+def _travers_matrix(matrix: list[list[int]]) -> list[int]:
     pass
